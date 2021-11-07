@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "933013930216",
+    "project_id": "nutribasket-bfa35",
+    "storage_bucket": "nutribasket-bfa35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933013930216:android:b57919776b14eb5961095d",
+        "android_client_info": {
+          "package_name": "com.trinadh.nutribasket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933013930216-smgkpc403biak54pslo90o8sa95ftvrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trinadh.nutribasket",
+            "certificate_hash": "5609ac25d285843412322ee6ae901f121f3e87fe"
+          }
+        },
+        {
+          "client_id": "933013930216-ki77k8amcddnh6uefuiaibe7350r09v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUtlzKa7D8GTM41HYomV7etk00UVzmLb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933013930216-ki77k8amcddnh6uefuiaibe7350r09v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
